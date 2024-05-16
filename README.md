@@ -1,7 +1,7 @@
-             Họ và tên: Vũ Ngọc Bình
-                  Mssv : k205480106040
-                  Môn học : Lập trình Python
-                  Tên Đề Tài : Hệ thống dự đoán và theo dõi chứng khoán 
+        **     Họ và tên: Vũ Ngọc Bình**
+                 ** Mssv : k205480106040**
+       **          Môn học : Lập trình Python**
+**                  Tên Đề Tài : Hệ thống dự đoán và theo dõi chứng khoán **
 I. Mục tiêu
 
 Lấy dữ liệu chứng khoán Xử lý dữ liệu :sử dụng FastAPI và Node-RED, sau đó lưu vào cơ sở dữ liệu. Xây dựng trang web 
